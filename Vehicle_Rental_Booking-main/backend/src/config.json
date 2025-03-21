@@ -1,0 +1,27 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "Avnish123",
+      "database": "AvnishVehicle",
+      "host": "localhost",
+      "dialect": "postgres",
+      "port": 5432
+    },
+    "test": {
+      "username": "postgres",
+      "password": "Avnish123",
+      "database": "AvnishVehicleTest",
+      "host": "localhost",
+      "dialect": "postgres",
+      "port": 5432
+    },
+    "production": {
+      "username": "postgres",
+      "password": "Avnish123",
+      "database": "AvnishVehicle",
+      "host": "localhost",
+      "dialect": "postgres",
+      "port": 5432
+    }
+  }
+  
